@@ -3,4 +3,3 @@
 
 This page was made using material provided by [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
-[Check This Site](https://huddlesb.glitch.me)
